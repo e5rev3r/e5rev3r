@@ -47,37 +47,6 @@ My interests span web application security, browser internals (cookie stores, hi
 
 ────────────────────────────────────────────────────────────────────────────────
 
-## `[ PROJECTS ]`
-
-```
-┌─ REPOSITORY INDEX ───────────────────────────────────────────────────┐
-│                                                                       │
-│  [ Browser-Data-Research ]  → Scripts analyzing Firefox storage      │
-│                                mechanisms and data extraction         │
-│                                                                       │
-│  [ Python-Security-Tools ]  → Small automation tools for recon       │
-│                                and vulnerability analysis             │
-│                                                                       │
-│  [ Linux-Notes ]            → Personal documentation: commands,      │
-│                                privilege escalation notes, configs    │
-│                                                                       │
-└───────────────────────────────────────────────────────────────────────┘
-```
-
-────────────────────────────────────────────────────────────────────────────────
-
-## `[ GITHUB METRICS ]`
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=e5rev3r&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=e5rev3r&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00d9ff&text_color=c9d1d9)
-
-</div>
-
-────────────────────────────────────────────────────────────────────────────────
-
 ```
 [■] SYSTEM STATUS: ONLINE | SECURITY: ENABLED | MODE: RESEARCH
 ```
