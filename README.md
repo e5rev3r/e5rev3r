@@ -38,6 +38,26 @@ My interests span web application security, browser internals (cookie stores, hi
 
 ────────────────────────────────────────────────────────────────────────────────
 
+## `[ CONCLUSION ]`
+
+```
+> SYSTEM ANALYSIS COMPLETE...
+> GENERATING FINAL REPORT...
+```
+
+Security is an engineering problem. I identify assumptions, trace trust boundaries, and exploit failure points. My goal isn't just to **find** vulnerabilities—it's to understand **why** they exist and how to weaponize or eliminate them.
+
+```
+METHODOLOGY:
+├── Reverse engineer systems to map attack surfaces
+├── Build tools that automate what others do manually
+└── Document everything for future exploitation
+```
+
+Continuous improvement through hands-on research, custom tooling, and controlled exploitation. The endgame: **deep mastery of offensive security** at the system and browser level.
+
+────────────────────────────────────────────────────────────────────────────────
+
 ```
 [■] SYSTEM STATUS: ONLINE | SECURITY: ENABLED | MODE: RESEARCH
 ```
